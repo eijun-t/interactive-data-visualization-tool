@@ -36,4 +36,13 @@
 - 日付 (Date)
 - 製品名 (Product)
 - 売上 (Sales)
-- 地域 (Region) 
+- 地域 (Region)
+
+画像１
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/60df994d-b52a-411f-ac48-bcdcde45bbd9" />
+画像２
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/ea006f00-6468-4fc2-86d1-ba98e208bd63" />
+画像３
+<img width="1492" alt="image" src="https://github.com/user-attachments/assets/b2248cd8-369a-44e2-b793-7fab374ca95c" />
+
+
